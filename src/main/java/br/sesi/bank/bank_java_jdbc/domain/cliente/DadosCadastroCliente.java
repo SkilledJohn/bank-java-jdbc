@@ -1,7 +1,6 @@
 package br.sesi.bank.bank_java_jdbc.domain.cliente;
 
 public class DadosCadastroCliente {
-
     public String nome;
     public String email;
     public String cpf;
@@ -11,4 +10,5 @@ public class DadosCadastroCliente {
         this.email = email;
         this.cpf = cpf;
     }
+
 }
